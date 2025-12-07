@@ -1,5 +1,5 @@
 # Define the starting directory
-$startPath = "G:\INGLicentiat\II HITBOX"
+$startPath = "G:\INGLicentiat\PST baiatu"
 
 # Function to check if a folder is empty
 function Is-FolderEmpty {
